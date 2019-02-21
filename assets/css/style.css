@@ -1,0 +1,26 @@
+
+img {
+    border: 5px solid black; 
+    width: 200px;
+    height: 200px;
+    margin: 20px 0px 20px 0px; 
+}
+h1 {
+    background: tan; 
+    width: 500px;
+}
+#defintion {
+    width: 500px;
+    background: mediumaquamarine;
+    line-height: 30px;
+    font-size: 20px;
+    padding: 10px; 
+    font-family: Georgia, 'Times New Roman', Times, serif
+
+}
+
+body {
+    background: tan;
+}
+
+
